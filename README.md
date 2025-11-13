@@ -2,7 +2,7 @@
 An interactive Power BI dashboard designed to explore customer and financial trends in the banking sector. It visualizes metrics like total loans, deposits, savings, fees. The dashboard enables users to filter by gender, banking relationship, and timeframe.
 
 ## Executive Summary:
-Using Python for exploratory data analysis (EDA) and Power BI for visualization, this project analyzes a bank’s customer and transaction data to surface insights around loans, deposits, savings, credit-card usage and customer engagement.
+Using SQL, Python for exploratory data analysis (EDA) and Power BI for visualization, this project analyzes a bank’s customer and transaction data to surface insights around loans, deposits, savings, credit-card usage and customer engagement.
 
 ### Problem Statement  
 Banks depend on clear visibility into customer financial behavior to drive lending, deposits, and revenue growth. Excel reporting is fragmented, making it difficult to track key KPIs across demographics, income bands, and engagement levels. This limits the bank’s ability to identify trends, risks, and high-value customer segments. How can we create a unified analytics solution that delivers real-time insights into customer behavior and overall banking performance?
@@ -14,7 +14,7 @@ Banks depend on clear visibility into customer financial behavior to drive lendi
   4.Built an interactive Power BI dashboard to visualize key banking KPIs, segment customer groups, and deliver actionable financial insights.
 
 ### Visuals - Power BI Dashboard Preview
-![Dashboard Preview](Dashboard Images/Screenshot 2025-11-10 220727.png)
+![Dashboard Preview](Images/1.png)
 
 ### Skills
 SQL:
